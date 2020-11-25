@@ -17,9 +17,7 @@ Wykład prof. Tylla Kruegera odbędzie się w języku angielskim, herbatka odbę
 Link do kolokwium na platformie zoom:
 https://zoom.us/j/94058084008?pwd=aDdUeDBDbWR4TWw3SFM4Q2xUYXV5dz09 Hasło/Passcode:234735
 
-Link do plakatu: 
-https://raw.githubusercontent.com/mini-pw/MiNI-Kolokwium/main/2020-12-03/Banner_logo.png
-
+![https://raw.githubusercontent.com/mini-pw/MiNI-Kolokwium/main/2020-12-03/Banner_logo.png](https://raw.githubusercontent.com/mini-pw/MiNI-Kolokwium/main/2020-12-03/Banner_logo.png)
 
 Dziekan Wydziału MiNI PW
 dr hab. Wojciech Domitrz, profesor uczelni
