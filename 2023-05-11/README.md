@@ -11,7 +11,7 @@ Invitation to Topological Data Analysis.
 Referat przedstawi dr Paweł Dłotko
 
 Link do plakatu:
-![https://raw.githubusercontent.com/MI2-Education/MiNI-Kolokwium/main/2022-05-12/Banner_logo.png](https://raw.githubusercontent.com/MI2-Education/MiNI-Kolokwium/main/2022-05-12/Banner_logo.png)
+![https://raw.githubusercontent.com/MI2-Education/MiNI-Kolokwium/main/2023-05-11/Kolokwium_Paweł%20Dłotko%2011V2023_1.png](https://raw.githubusercontent.com/MI2-Education/MiNI-Kolokwium/main/2023-05-11/Kolokwium_Paweł%20Dłotko%2011V2023_1.png)
 
 Streszczenie prezentacji:
 Abstract: In this talk I will invite the attendees to Topological Data Analysis (TDA), a new field emerging in between mathematics and computer science, 
